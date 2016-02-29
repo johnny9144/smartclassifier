@@ -6,11 +6,20 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "_inCache": true,
+  "_installable": true,
   "author": "Johnny Hunag",
   "_location": "/smartclassifier",
   "_requiredBy": [
     "/"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:johnny9144/smartclassifier.git"
+  },
+  "bugs": {
+    "url": "https://github.com/johnny9144/smartclassifier/issues"
+  },
   "homepage": "https://github.com/johnny9144/smartclassifier",
   "_where": "/Users/Johnny/Desktop/wwwjs/autoClassifier",
   "keywords": [
