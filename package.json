@@ -1,0 +1,23 @@
+{
+  "name": "smartclassifier",
+  "version": "1.0.0",
+  "description": "auto classifier by what the article are talking about and which area the article are talking.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Johnny Hunag",
+  "_location": "/smartclassifier",
+  "_requiredBy": [
+    "/"
+  ],
+  "_where": "/Users/Johnny/Desktop/wwwjs/autoClassifier",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^1.5.2",
+    "iconv-lite": "^0.4.13",
+    "natural": "^0.2.1"
+  }
+}
