@@ -43,7 +43,7 @@ The smartclassifier is authorized to Academic use.
 
 Copyright(c) 2016-2020 Bo-Wei Huang
 
-MIT Licensed
+MIT License
 
 If you have any question, please contact me with mail.
 
