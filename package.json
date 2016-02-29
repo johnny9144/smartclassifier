@@ -1,23 +1,43 @@
 {
   "name": "smartclassifier",
-  "version": "1.0.0",
+  "version": "0.1.2",
   "description": "auto classifier by what the article are talking about and which area the article are talking.",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "_inCache": true,
+  "_installable": true,
   "author": "Johnny Hunag",
   "_location": "/smartclassifier",
   "_requiredBy": [
     "/"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:johnny9144/smartclassifier.git"
+  },
+  "bugs": {
+    "url": "https://github.com/johnny9144/smartclassifier/issues"
+  },
+  "homepage": "https://github.com/johnny9144/smartclassifier",
   "_where": "/Users/Johnny/Desktop/wwwjs/autoClassifier",
-  "license": "MIT",
-  "main": "lib/index.js",
+  "keywords": [
+    "classifier",
+    "ckip",
+    "chinese"
+  ],
   "license": "MIT",
   "dependencies": {
     "async": "^1.5.2",
     "iconv-lite": "^0.4.13",
-    "natural": "^0.2.1"
+    "natural": "^0.2.1",
+    "xml2js": "^0.4.16"
+  },
+  "devDependencies": {
+    "async": "^1.5.2",
+    "iconv-lite": "^0.4.13",
+    "natural": "^0.2.1",
+    "xml2js": "^0.4.16"
   }
 }
