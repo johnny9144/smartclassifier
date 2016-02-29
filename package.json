@@ -28,7 +28,12 @@
     "chinese"
   ],
   "license": "MIT",
-  "dependencies": {},
+  "dependencies": {
+    "async": "^1.5.2",
+    "iconv-lite": "^0.4.13",
+    "natural": "^0.2.1",
+    "xml2js": "^0.4.16"
+  },
   "devDependencies": {
     "async": "^1.5.2",
     "iconv-lite": "^0.4.13",
