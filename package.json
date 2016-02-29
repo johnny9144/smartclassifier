@@ -1,6 +1,10 @@
 {
   "name": "smartclassifier",
+<<<<<<< HEAD
   "version": "0.1.3",
+=======
+  "version": "0.1.2",
+>>>>>>> af0284f96fa68a152ea5d5e78e9c6923618d19d8
   "description": "auto classifier by what the article are talking about and which area the article are talking.",
   "main": "lib/index.js",
   "scripts": {
